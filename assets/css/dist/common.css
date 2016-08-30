@@ -1,0 +1,41 @@
+
+li{
+	display:inline-block;
+	font-size:0.7em;
+    color:grey;
+    font-weight:bold;
+}
+#banner{
+	width:100%;
+}
+#btn-red{
+	width:100%;
+	height:25px;
+	font-size:0.6em;
+	margin-top:2%;
+	background:#A30038;
+	border-color:#A30038;
+	color:white;
+}
+
+input{
+	width:100%;
+}
+
+#domingo{
+	border: 1px solid grey;
+	width:100%;
+	height:50px;
+	border-bottom:2px solid red;
+}
+
+#dominboton{
+	background:red;
+    display: inline;
+    padding: 4px 12px;
+    border-radius:5%;
+    margin-left:35%;
+    font-size:0.6em;
+    font-weight:bold;
+    color:white;
+}

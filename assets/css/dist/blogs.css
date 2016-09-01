@@ -56,3 +56,11 @@
 	.tres{
 		font-size: 10px;
 	}
+	aside{
+	position: fixed;
+	margin-top:-13%;
+	padding: 0%
+}
+.asid{
+	margin-left: -5%;
+}
